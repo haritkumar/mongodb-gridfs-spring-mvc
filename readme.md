@@ -9,7 +9,7 @@ Instead of storing a file in a single document, GridFS divides the file into par
 
 ## Setup instructions
 - Import as maven project
-- Create a mongo database named **mongodb** or edit **MongoConfig.java**
+- Create a mongo database named **gridfs_db** or edit **MongoConfig.java**
 - Run on server
 - Access http://localhost:8080/mongodb-gridfs/
 
